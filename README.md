@@ -45,7 +45,7 @@ Random Forest is the superior model in this case, with a better recall and ROC A
 Both models benefit from tuning, with improvements in their ability to distinguish between positive and negative instances
 Total Charges, Customer Service Calls, and International Plan are important features influencing customer churn predictions
 
-#Recommendation
+# Recommendation
  - Targeted Promotions and Discounts: Use the model to identify customer segments at risk of churning and offer them targeted discounts, loyalty programs, or bundled packages that address their specific needs and usage patterns. For example customers from area 415
  - Improved Plan Pricing Strategies: The company should consider providing better prices for international and voicemail plans as most customers who churned had not subscribed to either of the plans 
  - Significant Features Enhancement: SyriaTel should focus on enhancing the features identified as significant in predicting the churn so as to increase customer retention ie call charges 
