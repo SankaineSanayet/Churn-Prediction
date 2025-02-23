@@ -51,4 +51,4 @@ Total Charges, Customer Service Calls, and International Plan are important feat
  - Customer Retention Strategies: The company should focus retention strategies in states where there was a high churn rate
 
 # For More Information:
-Review the full analysis in Jupyter Notebook or the Presentation
+Review the full analysis in [Jupyter Notebook](https://github.com/SankaineSanayet/Churn-Prediction/blob/main/index-checkpoint.ipynb) or the Presentation
