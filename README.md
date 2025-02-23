@@ -15,7 +15,8 @@ The dataset we are working with for this project has been obtained from [Kaggle]
 
 # Data Preprocessing
 In this phase, we prepared the dataset for modeling by encoding categorical variables, scaling features, removing outliers and performing feature engineering.
-The final step was splitting the data into training and testing set in preparation for modeling
+The final step was splitting the data into training and testing set in preparation for modeling.
+We use class weights approach to deal with the class imbalance so as to prevent overfitting.
 
 # Modeling
 The Logistic Regression has been used as our base model for performance comparison purposes with the rest of the models.
@@ -51,4 +52,4 @@ Total Charges, Customer Service Calls, and International Plan are important feat
  - Customer Retention Strategies: The company should focus retention strategies in states where there was a high churn rate
 
 # For More Information:
-Review the full analysis in [Jupyter Notebook](https://github.com/SankaineSanayet/Churn-Prediction/blob/main/index-checkpoint.ipynb) or the Presentation
+Review the full analysis in [Jupyter Notebook](https://github.com/SankaineSanayet/Churn-Prediction/blob/main/index-checkpoint.ipynb) or the [Presentation](https://github.com/SankaineSanayet/Churn-Prediction/blob/main/presentation.pdf)
